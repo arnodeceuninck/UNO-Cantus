@@ -22,3 +22,6 @@ Zo snel mogelijk al je kaarten weggespeeld hebben.
     1. Als je dit vergeet, krijg je 7 nieuwe kaarten (en moet je een zevensprong doen). 
 ### UNO-Gebaar
 Dit is een gebaar net als een V of een P (respectievelijk voor Verbum of Prosit). Om dit gebaar te vormen, ga je rechtstaan en maak je met je armen een U.
+## Afdrukken
+Je moet uiteraard aan een hele hoop UNO-kaarten geraken voor dit spel. Gelukkig kan je dat makkelijk online terugvinden. Dit kan je om kosten te besparen in zwart/wit afdrukken en met een stift een bolletje met de juiste kleur erop zetten.
+Bijvoorbeeld hier vind je een online SVG versie: https://en.m.wikipedia.org/wiki/File:UNO_cards_deck.svg
