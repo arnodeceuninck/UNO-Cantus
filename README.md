@@ -9,7 +9,7 @@ Zo snel mogelijk al je kaarten weggespeeld hebben.
 1. Tussen ieder liedje roept trekt de senior een kaart een roept hij "UNO-Fundum [kleur] [nummer]"
 1. Heb je geen kaart met exact dezelfde kleur EN nummer, dan moet je momenteel niets doen.
 1. Heb je wel een kaart met exact dezelfde kleur EN nummer, dan ga je rechtstaan.
-1. Een schacht komt langs met een doos. Je legt je kaart in die doos en de schacht brengt zo een kaart 
+1. Een schacht komt langs met een doos. Je legt je kaart in die doos en de schacht brengt zo je kaart naar de voortafel.
 ### Speciale gevallen
 1. Heb je een kaart waarop +2 (in dezelfde kleur) of +4 staat (hiernaar wordt verwezen als +i in de volgende uitleg).
     1. Nadat de senior "Uno-Fundum [kleur] [nummer]" heeft geroepen, kan je rechtstaan en het UNO-Gebaar maken (staat hieronder beschreven).
