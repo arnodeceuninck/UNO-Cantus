@@ -6,10 +6,10 @@
 ### Doel van het spel
 Zo snel mogelijk al je kaarten weggespeeld hebben.
 ### Spelverloop 
-1. Tussen ieder liedje roept trekt de senior een kaart een roept hij "UNO-Fundum [kleur] [nummer]"
+1. Regelmatig tijdens de cantus trekt de senior een kaart een roept hij "UNO-Fundum [kleur] [nummer]"
 1. Heb je geen kaart met exact dezelfde kleur EN nummer, dan moet je momenteel niets doen.
 1. Heb je wel een kaart met exact dezelfde kleur EN nummer, dan ga je rechtstaan.
-1. Een schacht komt langs met een doos. Je legt je kaart in die doos en de schacht brengt zo een kaart 
+1. Een schacht komt langs met een doos. Je legt je kaart in die doos en de schacht brengt zo je kaart naar de voortafel.
 ### Speciale gevallen
 1. Heb je een kaart waarop +2 (in dezelfde kleur) of +4 staat (hiernaar wordt verwezen als +i in de volgende uitleg).
     1. Nadat de senior "Uno-Fundum [kleur] [nummer]" heeft geroepen, kan je rechtstaan en het UNO-Gebaar maken (staat hieronder beschreven).
@@ -22,3 +22,23 @@ Zo snel mogelijk al je kaarten weggespeeld hebben.
     1. Als je dit vergeet, krijg je 7 nieuwe kaarten (en moet je een zevensprong doen). 
 ### UNO-Gebaar
 Dit is een gebaar net als een V of een P (respectievelijk voor Verbum of Prosit). Om dit gebaar te vormen, ga je rechtstaan en maak je met je armen een U.
+## Afdrukken
+Je moet uiteraard aan een hele hoop UNO-kaarten geraken voor dit spel. Gelukkig kan je dat makkelijk online terugvinden. Dit kan je om kosten te besparen in zwart/wit afdrukken en met een stift een bolletje met de juiste kleur erop zetten.
+Bijvoorbeeld hier vind je een online SVG versie: https://en.m.wikipedia.org/wiki/File:UNO_cards_deck.svg
+## UNO-Sprong
+Op deze cantus kunnen er ook strafkes voorkomen. Daarom hebben we de UNO-sprong bedacht:
+1. De persoon die het strafke moet doen (de gestrafte), komt naar voor en krijgt te horen dat hij een UNO-sprong moet doen.
+1. De corona stemt een kleur van kaart.
+    1. Best gewoon kleur per kleur afgaan en mensen hun hand in de lucht laten steken als dat de kleur is die zij willen.
+    1. De kleur met de meeste stemmen wordt gekozen.
+1. De senior zal vervolgens een kaart trekken, als dit niet de gestemde kleur is, doet de gestrafte een adje en wordt deze stap herhaald. Als het wel de gestemde kleur is, is het strafje voorbij.
+```c++
+void UNO-sprong(Persoon gestraftePersoon) {
+    Kleur gekozenKleur = stemCorona({blauw, geel, rood, groen});
+    Kaart getrokkenKaart = senior.trekKaart();
+    while(getrokkenKaart.getKleur() != gekozenKleur){
+        gestraftePersoon.doeAdje();
+        getrokkenKaart = senior.trekKaart();
+    }
+    return;
+}
