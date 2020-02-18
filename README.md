@@ -24,7 +24,7 @@ Zo snel mogelijk al je kaarten weggespeeld hebben.
 Dit is een gebaar net als een V of een P (respectievelijk voor Verbum of Prosit). Om dit gebaar te vormen, ga je rechtstaan en maak je met je armen een U.
 ## Afdrukken
 Je moet uiteraard aan een hele hoop UNO-kaarten geraken voor dit spel. Gelukkig kan je dat makkelijk online terugvinden. Dit kan je om kosten te besparen in zwart/wit afdrukken en met een stift een bolletje met de juiste kleur erop zetten.
-Bijvoorbeeld hier vind je een online SVG versie: https://en.m.wikipedia.org/wiki/File:UNO_cards_deck.svg
+Bijvoorbeeld hier vind je een online SVG versie: ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/UNO_cards_deck.svg/699px-UNO_cards_deck.svg.png?sanitize=true)
 ## UNO-Sprong
 Op deze cantus kunnen er ook strafkes voorkomen. Daarom hebben we de UNO-sprong bedacht:
 1. De persoon die het strafke moet doen (de gestrafte), komt naar voor en krijgt te horen dat hij een UNO-sprong moet doen.
